@@ -1,0 +1,5 @@
+package physicsMiner.CraftingPlus.proxy;
+
+public class ClientProxy {
+
+}

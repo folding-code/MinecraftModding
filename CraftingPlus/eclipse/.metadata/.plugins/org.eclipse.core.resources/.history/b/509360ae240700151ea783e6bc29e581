@@ -1,0 +1,8 @@
+package physicsMiner.CraftingPlus.proxy;
+
+public class CommonProxy {
+	public void registerRenders()
+	{
+		
+	}
+}
